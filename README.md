@@ -18,4 +18,9 @@
 - YES.......NO
 - Kotlin
 - MD5
-- 
+- CORBA COMPILANTO
+- トプレのキーボード
+- Node.js
+- Hash table
+- Windows XP
+- Lorem Ipsum
