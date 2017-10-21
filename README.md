@@ -25,3 +25,4 @@
 - Windows XP
 - Lorem Ipsum
 - This is out of the project scope
+- El 155
