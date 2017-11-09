@@ -26,3 +26,4 @@
 - Lorem Ipsum
 - This is out of the project scope
 - El 155
+- El proyecto languidece con el inicio difuso
