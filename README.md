@@ -27,3 +27,7 @@
 - This is out of the project scope
 - El 155
 - El proyecto languidece con el inicio difuso
+- 1.5GB of Slack
+- El tenedor de apuestas
+- Control Stakeholder Management
+- ES QUE USTED NO LEE?!
